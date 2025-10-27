@@ -1,0 +1,25 @@
+{
+  "itemsObtenibles": [
+    "item_001",
+    "item_002",
+    "item_003"
+  ],
+  "itemsColeccionables": [
+    "col_001",
+    "col_002"
+  ],
+  "puzlesCompletados": [
+    "puzzle_01",
+    "puzzle_02"
+  ],
+  "itemsColocados": [
+    {
+      "itemId": "item_010",
+      "holderId": "holder_A"
+    },
+    {
+      "itemId": "item_011",
+      "holderId": "holder_B"
+    }
+  ]
+}
