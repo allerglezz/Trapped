@@ -149,7 +149,7 @@ Coordinar y comunicar módulos independientes del proyecto.
 
 # 👤 Autora
 
-Desarrollado por Desarrollado por **[Beatriz Aller](https://github.com/allerglezz)**
+Desarrollado por **[Beatriz Aller](https://github.com/allerglezz)**
 
 Proyecto académico — Diseño de Videojuegos
 
